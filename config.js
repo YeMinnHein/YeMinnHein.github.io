@@ -23,7 +23,7 @@ const PORTFOLIO_CONFIG = {
 
   // ── SOCIAL LINKS ──────────────────────────────────────────
   links: {
-    github: "https://github.com/IchBinYe",
+    github: "https://github.com/YeMinnHein",
     linkedin: "",
     twitter: "",
     resume: "",
@@ -61,7 +61,7 @@ const PORTFOLIO_CONFIG = {
 
   // ── GITHUB INTEGRATION ────────────────────────────────────
   github: {
-    username: "IchBinYe",
+    username: "YeMinnHein",
 
     // Set to true to auto-fetch repos from the GitHub API.
     // Your public repos will be displayed and sorted by stars.
