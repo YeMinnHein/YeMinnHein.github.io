@@ -13,18 +13,18 @@ const PORTFOLIO_CONFIG = {
   location: "Yangon, Myanmar",
 
   // ── HERO ──────────────────────────────────────────────────
-  tagline: "I build fast, accessible, and thoughtful web experiences — from database to interface.",
+  tagline: "I build fast, accessible, and thoughtful web experiences from database to interface.",
 
   // ── ABOUT ─────────────────────────────────────────────────
   about: [
-    "I'm a full-stack developer with a passion for building products that are clean, performant, and genuinely useful. I care deeply about the craft — whether that's architecting a scalable backend, designing a pixel-perfect UI, or shaving 200ms off a load time.",
-    "When I'm not coding, you can find me contributing to open-source, reading about systems design, or experimenting with new tools. I'm currently open to new opportunities."
+    "I'm a full-stack developer with a passion for building products that are clean, performant, and genuinely useful or fun. I care deeply about the craft — whether that's architecting a scalable backend, designing a pixel-perfect UI, or shaving 200ms off a load time.",
+    "When I'm not coding, I am experimenting with LLMs or AI and new tools. I'm currently open to new opportunities."
   ],
 
   // ── SOCIAL LINKS ──────────────────────────────────────────
   links: {
     github: "https://github.com/IchBinYe",
-    linkedin: "https://www.linkedin.com/in/yeminhein1/",
+    linkedin: "",
     twitter: "",
     resume: "",
   },
@@ -41,13 +41,13 @@ const PORTFOLIO_CONFIG = {
       date: "2025 — 2026",
       role: "Junior Web Developer",
       company: "Mysol Tech",
-      desc: "Developed and maintained Catchball Inc. backbone as main coder using Zend php. Developed internal projects using Next.js and Laravel",
+      desc: "Maintained and optimized core legacy systems using Zend PHP. Developed internal tooling and modern web apps using Next.js and Laravel.",
     },
     {
       date: "2025",
       role: "Intern",
       company: "Mysol Tech",
-      desc: "Developed internal projects using Next.js and Laravel",
+      desc: "Built and deployed internal project features using Next.js, Laravel, and TypeScript.",
     },
   ],
 
